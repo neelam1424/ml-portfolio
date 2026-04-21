@@ -1,0 +1,106 @@
+# =========================
+
+# Python
+
+# =========================
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+
+venv/
+env/
+ENV/
+.venv/
+
+# Distribution / packaging
+
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# =========================
+
+# Jupyter Notebook
+
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+
+# VS Code
+
+# =========================
+
+.vscode/
+
+# =========================
+
+# MacOS
+
+# =========================
+
+.DS_Store
+
+# =========================
+
+# Logs
+
+# =========================
+
+*.log
+
+# =========================
+
+# Environment Variables
+
+# =========================
+
+.env
+
+# =========================
+
+# Data Files (optional)
+
+# =========================
+
+# Ignore large datasets
+
+data/
+*.csv
+*.xlsx
+
+# =========================
+
+# Model Files (ML)
+
+# =========================
+
+*.pkl
+*.joblib
+*.h5
+*.pt
+
+# =========================
+
+# Temporary Files
+
+# =========================
+
+tmp/
+temp/
